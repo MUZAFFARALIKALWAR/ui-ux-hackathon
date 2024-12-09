@@ -1,5 +1,3 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
-import { FaChevronDown } from "react-icons/fa";
 import { MdOutlineClear } from "react-icons/md";
 
 function AnnouncementBar() {
